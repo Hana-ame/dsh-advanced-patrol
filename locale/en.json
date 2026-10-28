@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Advanced Patrol",
+    "description": "Session-level timer-driven LLM patrol: each session picks one of four presets (standard, context review, knowledge entry, stuck rescue) and an interval, and the model performs multi-turn tool operations on every tick."
+  }
+}

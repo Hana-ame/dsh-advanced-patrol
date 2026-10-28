@@ -10,7 +10,8 @@
     "./package.json": "./package.json",
     "./src/host": "./src/host.js",
     "./src/client": "./src/client.js",
-    "./src/presets": "./src/presets.js"
+    "./src/presets": "./src/presets.js",
+    "./locale/*.json": "./locale/*.json"
   },
   "scripts": {
     "test": "node --test test/*.test.js"
