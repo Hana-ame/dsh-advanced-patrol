@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Advanced patrol plugin for DSH: session-level timer-driven LLM patrol with switchable presets (standard/context-review/knowledge-entry/stuck-rescue). Each session picks a preset and interval; the LLM performs multi-turn tool operations on each tick.",
+  "author": "nanaka",
   "main": "./index.js",
   "exports": {
     ".": "./index.js",
